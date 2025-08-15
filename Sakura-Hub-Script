@@ -145,7 +145,7 @@ local Button = Tab:CreateButton({
    end,
 })
 -- Admins
-local Tab = Window:CreateTab("Admins", "gavel")
+local Tab = Window:CreateTab("Admin", "gavel")
 local Section = Tab:CreateSection("Admin Scripts")
 
 local Button = Tab:CreateButton({
