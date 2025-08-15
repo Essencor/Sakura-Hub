@@ -123,3 +123,24 @@ local Button = Tab:CreateButton({
    loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS/main/TALENTLESS"))() -- The function that takes place when the button is pressed
    end,
 })
+
+local Button = Tab:CreateButton({
+   Name = "Jerk Off R15",
+   Callback = function()
+   loadstring(game:HttpGet("https://pastefy.app/YZoglOyJ/raw"))()
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Jerk Off R6",
+   Callback = function()
+   loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))()
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "AirHub (ESP)",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/AirHub/main/AirHub.lua"))()
+   end,
+})
