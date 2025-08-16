@@ -168,3 +168,10 @@ local Button = Tab:CreateButton({
    loadstring(game:HttpGet("https://raw.githubusercontent.com/lxte/cmd/main/main.lua"))()
    end,
 })
+
+local Button = Tab:CreateButton({
+   Name = "CMD-X Admin",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
+   end,
+})
